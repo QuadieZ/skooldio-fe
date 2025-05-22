@@ -3,7 +3,7 @@
 A modern React-based frontend application built with TypeScript, Vite, and Tailwind CSS.
 
 <img width="1503" alt="Screenshot 2568-05-22 at 15 23 32" src="https://github.com/user-attachments/assets/0a6f13b6-41b6-4aed-94a5-346d768ea4d5" />
-[Deploy Preview](https://skooldio-fe.vercel.app/)
+Deploy Preview: https://skooldio-fe.vercel.app/
 
 ## 🚀 Tech Stack
 
